@@ -8,3 +8,14 @@ Gmail: shaunakjoshi1407@gmail.com
 
 ![Shaunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaunakJoshi1407&count_private=true&show_icons=true&theme=radical)
 
+### Languages (I have been working in and learning side by side):
+ > C++
+ 
+ > Golang
+ 
+ > Bash
+ 
+ > Python
+ 
+ > Nodejs(Beginner)
+  
