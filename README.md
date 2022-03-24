@@ -6,7 +6,7 @@ LinkedIn: https://www.linkedin.com/in/shaunak-joshi-4b6158190/
 
 Gmail: shaunakjoshi1407@gmail.com
 
-![Shaunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaunakJoshi1407&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaunakJoshi1407&count_private=true)
 
 ### Languages (I have been working in and learning side by side):
  > C++
@@ -17,5 +17,5 @@ Gmail: shaunakjoshi1407@gmail.com
  
  > Python
  
- > Nodejs(Beginner)
+ > Nodejs
   
