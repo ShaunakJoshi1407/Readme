@@ -18,4 +18,8 @@ Gmail: shaunakjoshi1407@gmail.com
  > Python
  
  > Nodejs
+ 
+ > Reactjs
+ 
+ > Ruby 
   
